@@ -115,11 +115,12 @@ This project is currently in the foundation phase.
 
 # 🧪 Testing & Performance
 
-Aspect| Status
-Mobility| Stable, torque-focused movement
-Turning| Differential track steering
-Stability| Cannon stabilizer (in testing)
-Durability| Reinforced hybrid structure
+|Aspect|Status|
+|---|---|
+|Mobility|Stable, torque-focused movement|
+|Turning|Differential track steering|
+|Stability|Cannon stabilizer (in testing)|
+|Durability|Reinforced hybrid structure|
 
 ---
 
