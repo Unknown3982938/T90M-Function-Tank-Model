@@ -1,18 +1,18 @@
-🛠️ T90M Functional Tank Model
+# 🛠️ T90M Functional Tank Model
 
-A semi-realistic, fully functional tank model inspired by the T-90M platform. Built using hybrid materials and practical engineering, this project focuses on real mechanical behavior scaled down into a compact, intimidating form.
-
----
-
-📌 Overview
-
-The T90M Functional Tank Model is designed to replicate core behaviors of a modern main battle tank while staying within the limits of DIY fabrication and accessible components.
-
-This is not just a display model—it is a working system with mobility, turret control, and stabilization features.
+## A semi-realistic, fully functional tank model inspired by the T-90M platform. Built using hybrid materials and practical engineering, this project focuses on real mechanical behavior scaled down into a compact, intimidating form.
 
 ---
 
-⚙️ Specifications
+# 📌 Overview
+
+## The T90M Functional Tank Model is designed to replicate core behaviors of a modern main battle tank while staying within the limits of DIY fabrication and accessible components.
+
+### This is not just a display model—it is a working system with mobility, turret control, and stabilization features.
+
+---
+
+# ⚙️ Specifications
 
 |Component|Details|
 |---|---|
@@ -27,7 +27,7 @@ This is not just a display model—it is a working system with mobility, turret 
 
 ---
 
-🔧 Features
+# 🔧 Features
 
 - 🔄 Full Mobility – Dual motor tracked drive system
 - 🎯 Turret Traverse System – Wide-angle/continuous rotation via MG996R
@@ -38,21 +38,21 @@ This is not just a display model—it is a working system with mobility, turret 
 
 ---
 
-🧠 Design Philosophy
+# 🧠 Design Philosophy
 
-This project follows a function-first engineering mindset:
+## This project follows a function-first engineering mindset:
 
 - Simplicity over unnecessary complexity
 - Structural dependency for reliability
 - Modular parts for easier repair and upgrades
 - Use of salvaged and mixed materials to maximize resource efficiency
 
-«If a system only works because of added fixes → unstable design
+#### «If a system only works because of added fixes → unstable design
 If a system fails when a critical part is removed → intentional design»
 
 ---
 
-🏗️ Materials Used
+# 🏗️ Materials Used
 
 - 3D Printed Components (Drive Wheels)
 - Sintra Board (Main structural panels)
@@ -62,7 +62,17 @@ If a system fails when a critical part is removed → intentional design»
 
 ---
 
-🏗️ Build Process
+# 🚧 Project Status
+
+This project is currently in the foundation phase.
+
+- Mechanical base and chassis are still being developed
+- Electronics integration is planned for later stages
+- System architecture is not finalized yet
+
+---
+
+# 🏗️ Build Process
 
 1. Chassis Construction
 
@@ -92,7 +102,7 @@ If a system fails when a critical part is removed → intentional design»
 
 ---
 
-🔌 System Architecture
+# 🔌 System Architecture
 
 - Wireless control via ESP-NOW
 - Dual power distribution:
@@ -103,7 +113,7 @@ If a system fails when a critical part is removed → intentional design»
 
 ---
 
-🧪 Testing & Performance
+# 🧪 Testing & Performance
 
 Aspect| Status
 Mobility| Stable, torque-focused movement
@@ -113,7 +123,7 @@ Durability| Reinforced hybrid structure
 
 ---
 
-🚧 Current Limitations
+# 🚧 Current Limitations
 
 - No fixed scale standard (affects part compatibility)
 - Speed limited due to high gear ratio (torque-focused setup)
@@ -122,7 +132,7 @@ Durability| Reinforced hybrid structure
 
 ---
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Add suspension system for terrain handling
 - Optimize track design and material durability
@@ -132,21 +142,32 @@ Durability| Reinforced hybrid structure
 
 ---
 
-📷 Media
+# 📷 Media
+
+## [Overall build overview] 
 <img width="8160" height="6144" alt="IMG_20260422_111727" src="https://github.com/user-attachments/assets/bdbd137e-c046-45f7-ac1a-fa5eb056c96e" />
 <img width="8160" height="6144" alt="IMG_20260407_192258" src="https://github.com/user-attachments/assets/94b43e0b-1333-4fe8-b3cd-817e1838cb0a" />
 
+## [Internals]
+<img width="8160" height="6144" alt="IMG_20260422_112050" src="https://github.com/user-attachments/assets/7fd5b89c-ed1e-4f48-97a3-c3daab9c1f9f" />
+<img width="8160" height="6144" alt="IMG_20260411_101005" src="https://github.com/user-attachments/assets/1623133b-38bc-426a-8b23-39f61a925581" />
+
+
+## [Front Turret, IR enabled]
+<img width="8160" height="6144" alt="IMG_20260410_213306" src="https://github.com/user-attachments/assets/9ce6f189-6a97-4e57-881c-24307d581838" />
+
+
 ---
 
-📊 Version Log
+# 📊 Version Log
 
-v1.0
+## v1.0
 
 - Base chassis completed
 - Functional drive system
 - Basic turret and cannon control
 
-v1.x (In Progress)
+## v1.x (In Progress)
 
 - Stabilizer refinement
 - Structural reinforcement
@@ -154,12 +175,12 @@ v1.x (In Progress)
 
 ---
 
-🤝 Contributions
+# 🤝 Contributions
 
 This is a personal engineering project, but feedback, suggestions, and improvements are welcome.
 
 ---
 
-📜 License
+# 📜 License
 
 MIT License
