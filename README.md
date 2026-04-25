@@ -14,15 +14,16 @@ This is not just a display model—it is a working system with mobility, turret 
 
 ⚙️ Specifications
 
-Component| Details
-Scale| Variable (~1:15 – 1:30)
-Drive Motors| 67:1 TT Motors
-Turret Traverse| MG996R Servo (360° variable rotation)
-Cannon Control| MG90S Servo
-Control System| ESP-NOW (wireless communication)
-Power (Logic)| 5V
-Power (Motors)| 6V–9V
-Drive Type| Dual Track System
+|Component|Details|
+|---|---|
+|Scale|Variable (~1:15 – 1:30)|
+|Drive Motors|67:1 TT Motors|
+|Turret Traverse|MG996R Servo (360° variable rotation)|
+|Cannon Control|MG90S Servo|
+|Control System|ESP-NOW (wireless communication)|
+|Power (Logic)|5V|
+|Power (Motors)|6V–9V|
+|Drive Type|Dual Track System|
 
 ---
 
