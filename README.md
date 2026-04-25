@@ -48,7 +48,7 @@
 - Use of salvaged and mixed materials to maximize resource efficiency
 
 #### «If a system only works because of added fixes → unstable design
-If a system fails when a critical part is removed → intentional design»
+### If a system fails when a critical part is removed → intentional design»
 
 ---
 
