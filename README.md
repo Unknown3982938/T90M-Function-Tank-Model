@@ -161,4 +161,4 @@ This is a personal engineering project, but feedback, suggestions, and improveme
 
 📜 License
 
-(Optional — MIT License recommended for open projects)
+MIT License
