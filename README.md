@@ -109,7 +109,7 @@ This project is currently in the foundation phase.
   - Stable 5V rail for microcontroller and sensors
   - Higher voltage rail for motors and servos
 
-(Add wiring diagram here in future updates)
+(Adding wiring diagram here in future updates)
 
 ---
 
