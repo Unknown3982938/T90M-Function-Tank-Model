@@ -132,8 +132,8 @@ Durability| Reinforced hybrid structure
 ---
 
 📷 Media
-
-(Add build photos, test videos, or demo clips here)
+<img width="8160" height="6144" alt="IMG_20260422_111727" src="https://github.com/user-attachments/assets/bdbd137e-c046-45f7-ac1a-fa5eb056c96e" />
+<img width="8160" height="6144" alt="IMG_20260407_192258" src="https://github.com/user-attachments/assets/94b43e0b-1333-4fe8-b3cd-817e1838cb0a" />
 
 ---
 
