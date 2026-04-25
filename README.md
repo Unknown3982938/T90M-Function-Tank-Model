@@ -145,13 +145,17 @@ This project is currently in the foundation phase.
 
 # 📷 Media
 
+
 ## [Overall build overview] 
 <img width="8160" height="6144" alt="IMG_20260422_111727" src="https://github.com/user-attachments/assets/bdbd137e-c046-45f7-ac1a-fa5eb056c96e" />
 <img width="8160" height="6144" alt="IMG_20260407_192258" src="https://github.com/user-attachments/assets/94b43e0b-1333-4fe8-b3cd-817e1838cb0a" />
 
+
+
 ## [Internals]
 <img width="8160" height="6144" alt="IMG_20260422_112050" src="https://github.com/user-attachments/assets/7fd5b89c-ed1e-4f48-97a3-c3daab9c1f9f" />
 <img width="8160" height="6144" alt="IMG_20260411_101005" src="https://github.com/user-attachments/assets/1623133b-38bc-426a-8b23-39f61a925581" />
+
 
 
 ## [Front Turret, IR enabled]
