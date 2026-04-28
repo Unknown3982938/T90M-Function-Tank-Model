@@ -1,0 +1,23 @@
+# -[𝗧𝟵𝟬𝗠 𝘁𝗮𝗻𝗸 𝗺𝗼𝗱𝗲𝗹 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀.... ]-
+## (DRIVE SHAFT/DRIVE GEAR) 
+
+---
+
+###𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥𝐬 𝐭𝐡𝐚𝐭 𝐢𝐬 𝐮𝐬𝐞𝐝 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲:
+-Bi-axial DC motor
+   ~800gf Torque/300rpm(3v) 
+-Female-Female wire(connector) 
+   ~15cm length
+-Chipboard(Base) 
+   ~1mm thick
+-H bridge Motor driver(controlled by MCU(ESP32)) 
+   ~ESP32-WROOM-32D(CP2102) 
+   ~3v-9v
+-popsicle stick(base reinforce) 
+-Headers(connection) 
+-BBQ stick(axle and side reinforce) 
+-Li-Po + Li-ion Battery (for source) 
+    ~3.7v/15000mAh(overall capacity)
+
+# Media
+
