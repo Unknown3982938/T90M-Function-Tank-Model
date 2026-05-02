@@ -180,6 +180,14 @@ This project is currently in the foundation phase.
 
 ---
 
+# 👤 Social Account links
+## (For more broader coverage for the updates regarding the model and future projects) 
+
+FB: "https://www.facebook.com/lawrence.tulali"
+TikTok: "https://www.tiktok.com/@philie_imation_001?_r=1&_t=ZS-960qj1Infa1"
+
+---
+
 # 🤝 Contributions
 
 This is a personal engineering project, but feedback, suggestions, and improvements are welcome.
