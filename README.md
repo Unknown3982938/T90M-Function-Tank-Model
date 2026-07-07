@@ -1,12 +1,12 @@
 # 🛠️ T90M Functional Tank Model
 
-## A semi-realistic, fully functional tank model inspired by the T-90M platform. Built using hybrid materials and practical engineering, this project focuses on real mechanical behavior scaled down into a compact, intimidating form.
+### A semi-realistic, fully functional tank model inspired by the T-90M platform. Built using hybrid materials and practical engineering, this project focuses on real mechanical behavior scaled down into a compact, intimidating form.
 
 ---
 
 # 📌 Overview
 
-## The T90M Functional Tank Model is designed to replicate core behaviors of a modern main battle tank while staying within the limits of DIY fabrication and accessible components.
+### The T90M Functional Tank Model is designed to replicate core behaviors of a modern main battle tank while staying within the limits of DIY fabrication and accessible components.
 
 ### This is not just a display model—it is a working system with mobility, turret control, and stabilization features.
 
@@ -40,7 +40,7 @@
 
 # 🧠 Design Philosophy
 
-## This project follows a function-first engineering mindset:
+### This project follows a function-first engineering mindset:
 
 - Simplicity over unnecessary complexity
 - Structural dependency for reliability
@@ -48,7 +48,7 @@
 - Use of salvaged and mixed materials to maximize resource efficiency
 
 #### «If a system only works because of added fixes → unstable design
-### If a system fails when a critical part is removed → intentional design»
+#### If a system fails when a critical part is removed → intentional design»
 
 ---
 
@@ -149,6 +149,9 @@ This project is currently in the foundation phase.
 ## [Overall build overview] 
 <img width="8160" height="6144" alt="IMG_20260422_111727" src="https://github.com/user-attachments/assets/bdbd137e-c046-45f7-ac1a-fa5eb056c96e" />
 <img width="8160" height="6144" alt="IMG_20260407_192258" src="https://github.com/user-attachments/assets/94b43e0b-1333-4fe8-b3cd-817e1838cb0a" />
+<img width="8160" height="6144" alt="IMG_20260519_111400" src="https://github.com/user-attachments/assets/e2b7d85b-2051-4d40-96fb-00a36214450e" />
+<img width="8160" height="6144" alt="IMG_20260519_111414" src="https://github.com/user-attachments/assets/3ba950ee-0098-4ed1-a79e-f19bd527aaf7" />
+
 
 
 
